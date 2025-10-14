@@ -56,7 +56,9 @@ The dataset was cleaned and modeled inside Power BI:
 - Include profit and cost performance insights.  
 
 ---
-
+## 📂 Repository Structure
+- [CoffeeShop_Sales.xlsx](./CoffeeShop_Sales.xlsx)→ raw dataset  
+- [demooo.pbix](./demooo.pbix)→ PowerBI Project
 ## 👨‍💻 Author
 **Mohamed Hani**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hani-721681243/)  
