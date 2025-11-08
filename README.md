@@ -46,7 +46,7 @@ The dataset was cleaned and modeled inside Power BI:
 ---
 
 ## 📷 Dashboard Preview
-![Coffee Shop Sales Dashboard](Dashboard.png)
+![Coffee Shop Sales Dashboard](https://github.com/MohamedHani22-mo/CoffeShop-Sales/blob/main/DashBoard.png)
 
 ---
 
